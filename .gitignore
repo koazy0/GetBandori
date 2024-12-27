@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.o
+*.obj
+*.log
+*.tmp
+test_main.go
+*.json
+*.yaml
